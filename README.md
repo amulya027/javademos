@@ -1,3 +1,3 @@
 # javademos
 
-test update
+test up
