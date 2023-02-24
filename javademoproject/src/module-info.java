@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author avr
+ *
+ */
+module javademoproject {
+}
